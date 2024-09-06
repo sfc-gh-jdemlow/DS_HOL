@@ -10,7 +10,7 @@ In this Quickstart, we will play the role of a data scientist at a telecom compa
 
 This Quickstart uses Snowflake Notebooks to import and load data, train a Random Forest with Snowpark ML model, visualize the predicted results from the forcasting model by building an interactive web application and make predictions on new users.
 
-![Data Analysis and Churn Prediction](architecture.pdf)
+![Data Analysis and Churn Prediction](architecture.png)
 
 ### Prerequisites
 - Familiarity with basic Python and SQL
