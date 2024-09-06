@@ -19,3 +19,6 @@ This Quickstart uses Snowflake Notebooks to import and load data, train a Random
 - How to train a Random Forest with Snowpark ML model
 - How to visualize the predicted results from the forecasting model
 - How to build an interactive web app and make predictions on new users
+
+## Step-By-Step Guide
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/data_analysis_and_churn_prediction_using_snowflake_notebooks/index.html?index=..%2F..index#0)
