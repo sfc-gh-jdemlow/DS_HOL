@@ -1,3 +1,5 @@
+![Data Analysis and Churn Prediction Header](banner.png)
+
 # Data Analysis and Churn Prediction Using Snowflake Notebooks
 
 ## Overview
@@ -7,6 +9,8 @@ Churn prediction relies on data analysis to be effective. Through data analysis,
 In this Quickstart, we will play the role of a data scientist at a telecom company that wants to identify users who are at high risk of churning. To accomplish this, we need to build a model that can learn how to identify such users. We will demonstrate how to use Snowflake Notebooks in conjunction with Snowflake/Snowpark to build a Random Forest Classifier to help us with this task.
 
 This Quickstart uses Snowflake Notebooks to import and load data, train a Random Forest with Snowpark ML model, visualize the predicted results from the forcasting model by building an interactive web application and make predictions on new users.
+
+![Data Analysis and Churn Prediction](architecture.pdf)
 
 ### Prerequisites
 - Familiarity with basic Python and SQL
