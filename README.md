@@ -1,5 +1,3 @@
-# sfguide-data-analysis-churn-prediction-in-snowflake-notebooks
-
 # Data Analysis and Churn Prediction Using Snowflake Notebooks
 
 ## Overview
