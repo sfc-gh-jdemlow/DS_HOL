@@ -1,5 +1,3 @@
-![Data Analysis and Churn Prediction Header](banner.png)
-
 # Data Analysis and Churn Prediction Using Snowflake Notebooks
 
 ## Overview
