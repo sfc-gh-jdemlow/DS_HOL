@@ -1,0 +1,3 @@
+[submodule "sfguide-build-and-deploy-snowpark-ml-models-using-streamlit-snowflake-notebooks"]
+	path = sfguide-build-and-deploy-snowpark-ml-models-using-streamlit-snowflake-notebooks
+	url = https://github.com/Snowflake-Labs/sfguide-build-and-deploy-snowpark-ml-models-using-streamlit-snowflake-notebooks.git
