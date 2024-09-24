@@ -54,6 +54,10 @@ GRANT ROLE churn_data_scientist TO USER identifier($my_user_var);
 
 USE ROLE churn_data_scientist;
 
+CREATE OR REPLACE SCHEMA DEMO;
+
+GRANT CREATE SNOWFLAKE.ML.CLASSIFICATION ON SCHEMA churn_prod.DEMO TO ROLE churn_data_scientist;
+
 /*---------------------------*/
 -- sql completion note
 /*---------------------------*/
