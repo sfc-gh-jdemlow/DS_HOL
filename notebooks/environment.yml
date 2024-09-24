@@ -4,7 +4,6 @@ channels:
 dependencies:
   - altair=
   - imbalanced-learn=
-  - modin=*
   - numpy=
   - pandas=
   - snowflake-ml-python=
