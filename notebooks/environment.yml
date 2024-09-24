@@ -7,3 +7,4 @@ dependencies:
   - numpy=
   - pandas=
   - snowflake-ml-python=
+  - snowflake-snowpark-python[modin]=
